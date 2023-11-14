@@ -1,2 +1,12 @@
 body {
+    background: CCCCCC;  
+}
+
+hl {
+    text-align: center:
+}
+
+p  {
+     text-align: center:
+}
         
